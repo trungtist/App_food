@@ -1,0 +1,16 @@
+npm install react-native-linear-gradient --save
+npm install @react-navigation/native-stack
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/material-top-tabs react-native-tab-view
+npm install react-native-pager-view
+npm install --save react-native-vector-icons
+npm install react-native-animatable --save
+npm install react-native-star-rating --save
+npm install react-native-render-html
+
+npm install link
+
+
+meet : https://meet.google.com/fom-xntf-hrk
